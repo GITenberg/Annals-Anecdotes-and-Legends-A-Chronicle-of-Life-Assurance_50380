@@ -1,4 +1,8 @@
 _repo: Annals-Anecdotes-and-Legends-A-Chronicle-of-Life-Assurance_50380
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50380-h/images/cover.jpg
 creator:
   author:
     agent_name: Francis, John
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '37092'
     url: http://www.gutenberg.org/2009/agents/37092
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50380#Annals-Anecdotes-and-Legends-A-Chronicle-of-Life-Assurance
 gutenberg_issued: '2015-11-04'
 gutenberg_type: Text
 identifiers:
